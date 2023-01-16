@@ -5,7 +5,7 @@ import AppNavbar from './components/AppNavbar.vue';
 
 <template>
   <AppNavbar />
-  <main class="container mx-auto my-10">
+  <main class="mx-3 my-10">
     <RouterView />
   </main>
 </template>
